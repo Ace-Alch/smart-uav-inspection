@@ -1,5 +1,5 @@
 <div align="center">
-<img src="portfolio-assets/cover.svg" width="100%" alt="Smart UAV for Remote Inspection and Data Capture project cover">
+<img src="https://raw.githubusercontent.com/Ace-Alch/Ace-Alch.github.io/main/banners/smart-uav-inspection.webp" width="100%" alt="smart-uav-inspection — concept artwork">
 
 # Smart UAV for Remote Inspection and Data Capture
 
